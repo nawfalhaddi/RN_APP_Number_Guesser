@@ -60,10 +60,10 @@ export default function App() {
   }
 
   return (
-    <SafeAreaView style={styles.screen}>
+    <View style={styles.screen}>
       <Header title="Guess a Number" />
       {content}
-    </SafeAreaView>
+    </View>
   );
 }
 

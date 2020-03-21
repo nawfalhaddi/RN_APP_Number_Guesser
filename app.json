@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Blank Template",
-    "slug": "project3-1",
+    "name": "Number_Guesser",
+    "slug": "number_guesser",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "A Simple Mobile App ( Game that guess the number that you choose by yourself  ) Made with React Native using EXPO ",
+    "githubUrl": "https://github.com/nawfalhaddi/Number_Guesser"
   }
 }
